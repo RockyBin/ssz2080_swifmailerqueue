@@ -23,6 +23,7 @@
     "config": {
         "process-timeout": 1800
     },
+    "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
             "swiftmailerssz\\mailerqueue\\": "src/"
