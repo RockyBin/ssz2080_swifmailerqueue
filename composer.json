@@ -24,7 +24,7 @@
         "process-timeout": 1800
     },
     "autoload":{
-        "psr-f":{
+        "psr-4":{
             "swiftmailerssz\\mailerqueue\\": "src/"
         }
     }
