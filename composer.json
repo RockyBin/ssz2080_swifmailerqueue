@@ -1,0 +1,34 @@
+{
+    "name": "swiftmailerssz/mailerqueue",  //对应 /vendor/swiftmailerssz/swiftmailerssz
+    "description": "Yii 2 Basic Project extension",
+    "keywords": ["yii2", "mailer", "swiftmailer", "extension"],
+    //"homepage": "http://www.yiiframework.com/",
+    "type": "yii2-extension",
+    "support": {
+        "issues": "https://github.com/ssz2080/ssz2080_swifmailerqueue/issues",
+        "forum": "https://github.com/ssz2080/ssz2080_swifmailerqueue",
+        "source": "https://github.com/ssz2080/ssz2080_swifmailerqueue"
+    },
+    "license": "MIT",
+    "authors":[
+        {
+            "name": "ssz2080",
+            "email":"694100431@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.5",
+        "yiisoft/yii2-redis": "~2.0.0"
+    },
+    "config": {
+        "process-timeout": 1800
+    },
+    "autoload":{
+        "psr-f":{
+            "swiftmailerssz\\mailerqueue\\": "src/"
+        }
+    }
+
+}
+
