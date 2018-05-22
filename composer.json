@@ -20,9 +20,6 @@
         "yiisoft/yii2": ">=2.0.5",
         "yiisoft/yii2-redis": "~2.0.0"
     },
-    "config": {
-        "process-timeout": 1800
-    },
     "minimum-stability": "stable",
     "autoload":{
         "psr-4":{
