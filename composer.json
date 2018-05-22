@@ -1,8 +1,7 @@
 {
-    "name": "swiftmailerssz/mailerqueue",  //对应 /vendor/swiftmailerssz/swiftmailerssz
+    "name": "swiftmailerssz/mailerqueue",
     "description": "Yii 2 Basic Project extension",
     "keywords": ["yii2", "mailer", "swiftmailer", "extension"],
-    //"homepage": "http://www.yiiframework.com/",
     "type": "yii2-extension",
     "support": {
         "issues": "https://github.com/ssz2080/ssz2080_swifmailerqueue/issues",
